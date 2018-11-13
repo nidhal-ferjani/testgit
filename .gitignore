@@ -1,0 +1,5 @@
+#tous mes fichiers à ignorer de tracking git
+.settings/
+.classpath
+.project
+bin/
